@@ -1,13 +1,5 @@
-# Caddy-ACME-DNS
+# Caddy-Webdav
 
-> 启用Caddy的WebDAV插件
+此仓库已被转移，请访问新仓库：
 
-<https://hub.docker.com/r/blazesnow/caddy>
-
-```shell
-docker pull blazesnow/caddy:webdav-alpine
-```
-
-## 使用说明
-
-见<https://github.com/mholt/caddy-webdav>
+<https://github.com/BlazeSnow/Caddy>
